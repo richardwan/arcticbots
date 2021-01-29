@@ -104,6 +104,7 @@ towaterspan
 dragonpoint
 recuperate tar
 tarsinn
+otik
 solinn
 solrank
 recuperate sol
@@ -228,6 +229,7 @@ citadel tenlo
 silvigates
 darvmurk
 dvcopse
+darvmiddle
 dv acidic
 sky instinct 51
 dkspell irda
@@ -271,6 +273,7 @@ bogkey
 bogmire
 bogmire
 nytetunnel
+nyteconverge
 ritkago
 kagoboulder
 hyuk
@@ -282,6 +285,7 @@ startsilvi
 bogwall
 startxak
 xakoaktree
+onyx
 startspire
 ritspire
 spirebase
@@ -386,12 +390,14 @@ startbalcombe
 serra
 lhex
 balcombe
+fyzian
 nerguards
 gownnocharm
 raynemansakr
 rayneselissa
 thcsmith
 palgrate
+palthief
 drogo dk quest
 jibur
 totstatue
@@ -444,3 +450,9 @@ uthlib
 khurreaver
 aran
 kerius
+rainsong
+palthug
+shoaldome
+ansabar
+hctmaze3
+egreckl
